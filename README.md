@@ -1,2 +1,3 @@
-# CODEFORCES
-My Solution for the CodeForces
+# CodeForces
+  *Solutions for probelms that I've solved from CodeForces*
+
